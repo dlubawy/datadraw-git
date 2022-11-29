@@ -1,6 +1,7 @@
 # Maintainer: Andrew Lubawy <dlubawy@gmail.com>
 
 pkgname="datadraw-git"
+provides=("datadraw")
 pkgver=0.1.0
 pkgrel=1
 pkgdesc="A database generator"
